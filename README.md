@@ -124,9 +124,11 @@ Japanese: https://developer.cybozu.io/hc/ja/articles/202957070
 * The following record data cannot be retrieved: Category, Status, Field group.
 * The following fields cannot be retrieved if they are set inside a Field group: Record number, Created by, Created datetime, Updated by, Updated datetime, Blank space, Label, Border.
 
+
 ## License
 
 GPL v2
+
 
 ## Copyright
 
